@@ -3,6 +3,6 @@ def main():
     myFunction(slow)
 
 def myFunction(text):
-  #Your code goes here.
-
+  output = text.replace("","...")#Your code goes here.
+  print(output)
 main()
